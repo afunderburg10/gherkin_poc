@@ -1,0 +1,17 @@
+*.pyc
+dist
+dist/*
+*.egg-info
+*.egg-info/*
+README.html
+.cache
+.cache/*
+sandbox*
+.idea
+logs/*
+!logs/.gitkeep
+venv
+config_override.yml
+credentials.yml
+chromedriver
+chromedriver.exe
